@@ -1,0 +1,30 @@
+.logo{
+    height:35px ;
+    width: 250px;
+}
+.price>p{
+    background-color: rgb(235, 232, 232);
+    border-radius: 10px;
+    font-size: small;
+}
+.info{
+    text-align: center;
+    
+}
+.key-feactures{
+    text-align: left;
+}
+.key-feactures>h6{
+    font-size: 12px;
+}
+
+
+.information>h5{
+    color: blue;
+}
+
+#demo-pic{
+    height: 60px;
+    width: 50px;
+    
+}

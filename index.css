@@ -1,0 +1,58 @@
+.logo{
+    height:35px ;
+    width: 250px;
+}
+  .padding{
+    padding-bottom: 30px;
+} 
+
+.collapse{
+    padding-right: 20px;
+}
+
+.poster-bg{
+    background-color: rgb(136, 127, 127);
+}
+
+.poster-bg p{
+    color: white;
+}
+
+.nav-bg{
+    background-color:rgb(136, 127, 127) ;
+}
+.card-border{
+    text-align: center;
+    border: none;
+    box-shadow: 5px 5px 10px rgb(163, 160, 160);
+}
+
+#see-button{
+    border: none;
+    background-color: tomato;
+    border-radius: 3px;
+    box-shadow: 3px 3px 8px rgb(163, 160, 160);
+    color: white;
+}
+.btn{
+    background-color: tomato;
+    border: none;
+    box-shadow: 3px 3px 8px rgb(163, 160, 160);
+    padding-bottom: 10px;
+}
+
+
+
+ .cat-border{
+    border-radius:15px 25px ;
+    
+
+} 
+
+#categoris{
+    text-align: center;
+}
+.card{
+    border: none;
+}
+
